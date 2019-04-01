@@ -5,5 +5,5 @@ Don't click the same card twice!
 
 Use this link to play:
 
-https://react-clicky-game.herokuapp.com/
+(https://rhubarb-crisp-22672.herokuapp.com/)
 # clicky-game
